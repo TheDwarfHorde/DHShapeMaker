@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4F426B1B-0AD4-4F08-B185-F01E22A50D7A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ShapeMaker</RootNamespace>
+    <AssemblyName>DHShapeMaker</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PaintDotNet">
+      <HintPath>..\..\..\..\..\..\..\Program Files\Paint.NET\pdn35\PaintDotNet.exe</HintPath>
+    </Reference>
+    <Reference Include="PaintDotNet.Base">
+      <HintPath>..\..\..\..\..\..\..\Program Files\Paint.NET\pdn35\PaintDotNet.Base.DLL</HintPath>
+    </Reference>
+    <Reference Include="PaintDotNet.Core">
+      <HintPath>..\..\..\..\..\..\..\Program Files\Paint.NET\pdn35\PaintDotNet.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="PaintDotNet.Data">
+      <HintPath>..\..\..\..\..\..\..\Program Files\Paint.NET\pdn35\PaintDotNet.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="PaintDotNet.Effects">
+      <HintPath>..\..\..\..\..\..\..\Program Files\Paint.NET\pdn35\PaintDotNet.Effects.dll</HintPath>
+    </Reference>
+    <Reference Include="PaintDotNet.Resources">
+      <HintPath>..\..\..\..\..\..\..\Program Files\Paint.NET\pdn35\PaintDotNet.Resources.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox1.Designer.cs">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BigKnobs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="BigKnobs.designer.cs">
+      <DependentUpon>BigKnobs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DHScroll.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DHScroll.designer.cs">
+      <DependentUpon>DHScroll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShortcutsFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShortcutsFrm.Designer.cs">
+      <DependentUpon>ShortcutsFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PathDataCls.cs" />
+    <Compile Include="EffectPluginToken.cs" />
+    <Compile Include="EffectPlugin.cs" />
+    <Compile Include="EffectPluginConfigDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PDNSupport.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BigKnobs.resx">
+      <DependentUpon>BigKnobs.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DHScroll.resx">
+      <DependentUpon>DHScroll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EffectPluginConfigDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EffectPluginConfigDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShortcutsFrm.resx">
+      <DependentUpon>ShortcutsFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon.ico" />
+    <None Include="Resources\LEDGon.png" />
+    <None Include="Resources\Icon.ico" />
+    <EmbeddedResource Include="Resources\Keyboard.rtf" />
+    <EmbeddedResource Include="Resources\Misc.rtf" />
+    <EmbeddedResource Include="Resources\Mouse.rtf" />
+    <None Include="Resources\pdndwarvesicon2.png" />
+    <None Include="Resources\sliderHandleLit.png" />
+    <None Include="Resources\rightarrow.png" />
+    <None Include="Resources\rightarrowLit.png" />
+    <None Include="Resources\leftarrow.png" />
+    <None Include="Resources\leftarrowLit.png" />
+    <None Include="Resources\V6 left ImageOpacityArrow ss.png" />
+    <None Include="Resources\V6 right ImageOpacityArrow ss.png" />
+    <None Include="Resources\zoom.png" />
+    <None Include="Resources\Draw on canvas ss.png" />
+    <None Include="Resources\Fit background ss.png" />
+    <None Include="Resources\TwoTimesView ss.png" />
+    <None Include="Resources\leftCorner.png" />
+    <None Include="Resources\rightCorner.png" />
+    <None Include="Resources\topStrip.png" />
+    <None Include="Resources\leftStrip.png" />
+    <None Include="Resources\rightStrip.png" />
+    <None Include="Resources\sliderHandle.png" />
+    <None Include="Resources\sliderBG.png" />
+    <None Include="Resources\OKTESTUP.png" />
+    <None Include="Resources\DnList.png" />
+    <None Include="Resources\UpList.png" />
+    <None Include="Resources\DESLCTUP.png" />
+    <None Include="Resources\APPTESTUP.png" />
+    <EmbeddedResource Include="Resources\ShpeMaker.sample.png" />
+    <None Include="Resources\big.png" />
+    <None Include="Resources\blank2.png" />
+    <None Include="Resources\blank.png" />
+    <None Include="Resources\Possible NewUI.png" />
+    <None Include="Resources\LEDon.png" />
+    <None Include="Resources\LEDoff.png" />
+    <None Include="Resources\SbOHUUR.png" />
+    <None Include="Resources\pdndwarvesicon.png" />
+    <None Include="Resources\bg.png" />
+  </ItemGroup>
+  <PropertyGroup>
+    <PostBuildEvent>copy "$(TargetFileName)" "C:\Program Files\Paint.NET\Effects"</PostBuildEvent>
+  </PropertyGroup>
+</Project>

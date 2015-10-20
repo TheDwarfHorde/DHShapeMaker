@@ -1,0 +1,79 @@
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\DHShapeMaker\bin\Debug\DHShapeMaker.dll
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\DHShapeMaker\bin\Debug\DHShapeMaker.pdb
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\DHShapeMaker\bin\Debug\PaintDotNet.Base.DLL
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\DHShapeMaker\bin\Debug\PaintDotNet.Core.dll
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\DHShapeMaker\bin\Debug\PaintDotNet.Data.dll
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\DHShapeMaker\bin\Debug\PaintDotNet.Effects.dll
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\DHShapeMaker\bin\Debug\PaintDotNet.exe
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\DHShapeMaker\bin\Debug\PaintDotNet.Resources.dll
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\DHShapeMaker\bin\Debug\PaintDotNet.SystemLayer.dll
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\DHShapeMaker\bin\Debug\PaintDotNet.SystemLayer.Native.x86.dll
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\DHShapeMaker\bin\Debug\PaintDotNet.SystemLayer.Native.x64.dll
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\DHShapeMaker\obj\Debug\DHShapeMaker.csprojResolveAssemblyReference.cache
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\DHShapeMaker\obj\Debug\Controlz.BigKnobs.resources
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\DHShapeMaker\obj\Debug\ShapeMaker.EffectPluginConfigDialog.resources
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\DHShapeMaker\obj\Debug\ShapeMaker.Properties.Resources.resources
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\DHShapeMaker\obj\Debug\DHShapeMaker.csproj.GenerateResource.Cache
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\DHShapeMaker\obj\Debug\DHShapeMaker.dll
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\DHShapeMaker\obj\Debug\DHShapeMaker.pdb
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - Copy\bin\Debug\DHShapeMaker.dll
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - Copy\bin\Debug\DHShapeMaker.pdb
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - Copy\bin\Debug\PaintDotNet.Base.DLL
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - Copy\bin\Debug\PaintDotNet.Core.dll
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - Copy\bin\Debug\PaintDotNet.Data.dll
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - Copy\bin\Debug\PaintDotNet.Effects.dll
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - Copy\bin\Debug\PaintDotNet.exe
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - Copy\bin\Debug\PaintDotNet.Resources.dll
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - Copy\bin\Debug\PaintDotNet.SystemLayer.dll
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - Copy\bin\Debug\PaintDotNet.SystemLayer.Native.x86.dll
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - Copy\bin\Debug\PaintDotNet.SystemLayer.Native.x64.dll
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - Copy\obj\Debug\DHShapeMaker.csprojResolveAssemblyReference.cache
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - Copy\obj\Debug\Controlz.BigKnobs.resources
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - Copy\obj\Debug\ShapeMaker.EffectPluginConfigDialog.resources
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - Copy\obj\Debug\ShapeMaker.HelpForm.resources
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - Copy\obj\Debug\ShapeMaker.Properties.Resources.resources
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - Copy\obj\Debug\DHShapeMaker.csproj.GenerateResource.Cache
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - Copy\obj\Debug\DHShapeMaker.dll
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - Copy\obj\Debug\DHShapeMaker.pdb
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\bin\Debug\DHShapeMaker.dll
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\bin\Debug\DHShapeMaker.pdb
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\bin\Debug\PaintDotNet.Base.DLL
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\bin\Debug\PaintDotNet.Core.dll
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\bin\Debug\PaintDotNet.Data.dll
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\bin\Debug\PaintDotNet.Effects.dll
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\bin\Debug\PaintDotNet.exe
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\bin\Debug\PaintDotNet.Resources.dll
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\bin\Debug\PaintDotNet.SystemLayer.dll
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\bin\Debug\PaintDotNet.SystemLayer.Native.x86.dll
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\bin\Debug\PaintDotNet.SystemLayer.Native.x64.dll
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\obj\Debug\DHShapeMaker.csprojResolveAssemblyReference.cache
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\obj\Debug\ShapeMaker.AboutBox1.resources
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\obj\Debug\Controlz.BigKnobs.resources
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\obj\Debug\ShapeMaker.dhScroll.resources
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\obj\Debug\ShapeMaker.EffectPluginConfigDialog.resources
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\obj\Debug\ShapeMaker.Shortcuts.resources
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\obj\Debug\ShapeMaker.Properties.Resources.resources
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\obj\Debug\DHShapeMaker.csproj.GenerateResource.Cache
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\obj\Debug\DHShapeMaker.dll
+C:\Users\Tauler Family\documents\visual studio 2010\Projects\DHShapeMaker\obj\Debug\DHShapeMaker.pdb
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - 2010\bin\Debug\DHShapeMaker.dll
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - 2010\bin\Debug\DHShapeMaker.pdb
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - 2010\bin\Debug\PaintDotNet.Base.DLL
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - 2010\bin\Debug\PaintDotNet.Core.dll
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - 2010\bin\Debug\PaintDotNet.Data.dll
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - 2010\bin\Debug\PaintDotNet.Effects.dll
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - 2010\bin\Debug\PaintDotNet.exe
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - 2010\bin\Debug\PaintDotNet.Resources.dll
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - 2010\bin\Debug\PaintDotNet.SystemLayer.dll
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - 2010\bin\Debug\PaintDotNet.SystemLayer.Native.x86.dll
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - 2010\bin\Debug\PaintDotNet.SystemLayer.Native.x64.dll
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - 2010\obj\Debug\DHShapeMaker.csprojResolveAssemblyReference.cache
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - 2010\obj\Debug\ShapeMaker.AboutBox1.resources
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - 2010\obj\Debug\Controlz.BigKnobs.resources
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - 2010\obj\Debug\ShapeMaker.dhScroll.resources
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - 2010\obj\Debug\ShapeMaker.EffectPluginConfigDialog.resources
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - 2010\obj\Debug\ShapeMaker.Shortcuts.resources
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - 2010\obj\Debug\ShapeMaker.Properties.Resources.resources
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - 2010\obj\Debug\DHShapeMaker.csproj.GenerateResource.Cache
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - 2010\obj\Debug\DHShapeMaker.dll
+C:\Users\Tauler Family\Documents\Visual Studio 2010\Projects\DHShapeMaker - 2010\obj\Debug\DHShapeMaker.pdb
