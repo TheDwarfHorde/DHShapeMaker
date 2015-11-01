@@ -2,6 +2,9 @@
 {
     partial class BigKnobs
     {
+       ///
+       ///  Hey Nonny Nonny - EER was here!
+       /// 
         /// <summary> 
         /// Required designer variable.
         /// </summary>
