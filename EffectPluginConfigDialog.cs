@@ -2927,8 +2927,8 @@ namespace ShapeMaker
                         tmp[3] = pbpoint[3];
                         tmp[1] = tmp[0];
                         tmp[2] = tmp[4];
-                        //Array.Copy(pbpoint, tmp, pbpoint.Length);
-                        Lines.Add(new PData(tmp, false, getLType(), Big.Checked, Sweep.Checked, "", false));
+                        //test below
+                        Lines.Add(new PData(tmp, false, getLType(), Big.Checked, Sweep.Checked, "", true));
                         LineList.Items.Add(LineNames[(int)LineTypes.Ellipse]);
 
                     }
