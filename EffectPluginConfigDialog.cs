@@ -2914,6 +2914,7 @@ namespace ShapeMaker
                 {
                     if (MacroCircle.Checked && getLType() == (int)LineTypes.Ellipse)
                     {
+                        if (pbpoint.Length < 5) return;
                         PointF mid = pointAverage(pbpoint[0], pbpoint[4]);
                         pbpoint[1] = pbpoint[0];
                         pbpoint[2] = pbpoint[4];
